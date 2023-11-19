@@ -1,0 +1,74 @@
+@keyframes rodando {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes textGradientAnimation {
+  0% {
+      background-position: 50% 30%
+  }
+
+  25% {
+      background-position: 100% 10%
+  }
+
+  50% {
+      background-position: 100% 90%
+  }
+
+  75% {
+      background-position: 60% 90%
+  }
+
+  to {
+      background-position: 50% 30%
+  }
+}
+@keyframes beli1 {
+  0% {
+    transform: scale(1) rotate(2deg);
+  }
+  40% {
+    transform: scale(1.04) rotate(0deg);
+  }
+  100% {
+    transform: scale(1) rotate(2deg);
+  }
+}
+@keyframes belidetalhe1 {
+  0% {
+    left: 24%;
+  }
+  50% {
+    left: 17%
+  }
+  100% {
+    left: 24%;
+  }
+}
+@keyframes beli2 {
+  0% {
+    transform: scale(1) rotate(-5deg);
+  }
+  40% {
+    transform: scale(1.08) rotate(1deg);
+  }
+  100% {
+    transform: scale(1) rotate(-5deg);
+  }
+}
+@keyframes belidetalhe2 {
+  0% {
+    left: 68%;
+  }
+  50% {
+    left: 72%
+  }
+  100% {
+    left: 68%;
+  }
+}

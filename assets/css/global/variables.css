@@ -1,0 +1,19 @@
+/* Essas são as variáveis para usar no site e ficar mais escalável a edição das coisas */
+:root {
+    --cor-branco: #FFFFFF;
+    --cor-preto: #000000;
+    --cor-escuro: #181313;
+    --cor-principal: #FFD600;
+    --cor-principal2: #FFE041;
+  
+    --f1: clamp(0.6rem, 1vw, 0.8rem);
+    --f2: clamp(0.8rem, 1vw, 1rem);
+    --f3: clamp(1rem, 1vw, 1.2rem);
+    --f4: clamp(2rem, 1vw, 3rem);
+    --f5: clamp(4rem, 1vw, 6rem);
+  
+    --regular: 'figtree-regular';
+    --bold: 'figtree-bold';
+    --estilo: 'margarine';
+  }
+  

@@ -1,0 +1,23 @@
+/* Fontes */
+@font-face {
+    font-family: 'figtree-bold';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('../../files/Figtree-Bold.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'figtree-regular';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('../../files/Figtree-Regular.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'margarine';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('../../files/Margarine-Regular.woff') format('woff');
+  }
+  
